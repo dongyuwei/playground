@@ -14,3 +14,6 @@ fac(N) -> N * fac(N-1).
 %
 % %% both
 % io:format("\e[H\e[J").
+
+% or run this code:
+% io:format(os:cmd("clear")) .
